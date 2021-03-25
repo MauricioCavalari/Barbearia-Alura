@@ -1,0 +1,616 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"backgr",
+				"background-attachment\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"al",
+				"alterar"
+			],
+			[
+				"get",
+				"getDay"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"te",
+				"teste"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"dia",
+				"diasem"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"dat",
+				"Date"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"td",
+				"tdAltura"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"backgroud",
+				"background-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tr",
+				"translate()\ttransform"
+			],
+			[
+				"b",
+				"btn1"
+			],
+			[
+				"TET",
+				"text"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"sr",
+				"script"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"backgro",
+				"background-position\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"transfor",
+				"transform\tproperty"
+			],
+			[
+				"trn",
+				"transition\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"tran",
+				"translateY()\ttransform"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"oi",
+				"pointer\tcursor"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"moda",
+				"modalabre"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"c",
+				"confirmaSenha"
+			],
+			[
+				"CO",
+				"confirmaSenha"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"m",
+				"mb-4"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ms",
+				"msg1"
+			],
+			[
+				"msg",
+				"msg2"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"col-xl",
+				"col-xl-2"
+			],
+			[
+				"fot",
+				"footer\tTag"
+			],
+			[
+				"lI",
+				"link\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"o",
+				"opcao"
+			],
+			[
+				"fa",
+				"faltas_limite"
+			],
+			[
+				"p",
+				"prompt"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"res",
+				"restricoes"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"pro",
+				"PROJECT_DIR"
+			],
+			[
+				"v",
+				"values"
+			],
+			[
+				"V",
+				"values"
+			],
+			[
+				"my",
+				"mycursor"
+			],
+			[
+				"medi",
+				"mediana"
+			],
+			[
+				"lista",
+				"lista2"
+			],
+			[
+				"minh",
+				"minha_lista"
+			],
+			[
+				"mi",
+				"minha_lista"
+			],
+			[
+				"minha_lis",
+				"minha_lista"
+			],
+			[
+				"minha",
+				"minha_lista2"
+			],
+			[
+				"not",
+				"nota2"
+			],
+			[
+				"n",
+				"nota2"
+			],
+			[
+				"nota",
+				"nota2"
+			],
+			[
+				"num",
+				"num2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/adm/Desktop/Alura/javascript-avancado-i-aula1/aluraframe/client/js/index.js",
+		"/C/Users/adm/Desktop/Alura/javascript-avancado-i-aula1/aluraframe/client/js/app/controllers/NegociacaoController.js",
+		"/C/Users/adm/Desktop/alura html/style.css",
+		"/C/Users/adm/Desktop/exemplo/index.html",
+		"/C/Users/adm/Desktop/exemplo/style.css",
+		"/C/Users/adm/Desktop/alura html/index.html",
+		"/C/Users/adm/Desktop/button-ripple-effect-master/loucura.html",
+		"/C/Users/adm/Desktop/button-ripple-effect-master/testeebuttonnnnnnnnnnnnnnnnn.html",
+		"/C/Users/adm/Desktop/testeebuttonnnnnnnnnnnnnnnnn.html",
+		"/C/Users/adm/Desktop/Product Card/style.css",
+		"/C/Users/adm/Desktop/Product Card/index.html",
+		"/C/Users/adm/Desktop/Login Form/style.css",
+		"/C/Users/adm/Desktop/Login Form/index.html",
+		"/C/wamp/www/loja2/config.php",
+		"/C/wamp/www/nova_loja2/index.php",
+		"/C/wamp/www/nova_loja2/config.php",
+		"/C/Users/adm/Desktop/lbca desafio/teste/teste.html",
+		"/C/Users/adm/Desktop/test2/teste2.html",
+		"/C/Users/adm/Desktop/DevPessoal/formularioteste.html",
+		"/C/Users/adm/Desktop/lbca desafio/ex016/script.js",
+		"/C/Users/adm/Desktop/lbca desafio/ex014/script.js",
+		"/C/Users/adm/Desktop/lbca desafio/ex014/modelo.html",
+		"/C/Users/adm/Desktop/lbca desafio/ex017/script.js",
+		"/C/Users/adm/Desktop/button-ripple-effect-master/Button Ripple Effect/samuel.html",
+		"/C/Users/adm/Desktop/button-ripple-effect-master/Button Ripple Effect/index.html",
+		"/C/Users/adm/Desktop/button-ripple-effect-master/Button Ripple Effect/css/style.css",
+		"/C/Users/adm/Desktop/button-ripple-effect-master/Button Ripple Effect/js/main.js",
+		"/C/Users/adm/Desktop/button docsing/index.html",
+		"/C/Users/adm/Desktop/Alura/introducao-javascript/index.html",
+		"/C/Users/adm/Desktop/Alura/introducao-javascript/js/principal.js",
+		"/C/Users/adm/Desktop/modal teste/index.html",
+		"/C/Users/adm/Desktop/whatsapp-bootstrap-master/whatsapp-bootstrap-master/index.html",
+		"/C/Users/adm/Desktop/menu responsivo pedro/index.html",
+		"/C/wamp/www/teste.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/adm/Desktop/Parallax/parallax.html",
+		"/C/Users/adm/Desktop/Parallax/Parallax.css",
+		"/C/Users/adm/Desktop/Parallax/parallax.js",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/Users/adm/Desktop/uikit-ecommerce-template-master/src/templates/pages/index.html.pug",
+		"/C/Users/adm/Desktop/uikit-ecommerce-template-master/src/templates/layouts/_index.pug",
+		"/C/Users/adm/Desktop/portifolio/index.html",
+		"/C/Users/adm/Desktop/goTop Button/script.js",
+		"/C/Users/adm/Desktop/goTop Button/style.css",
+		"/C/Users/adm/Desktop/Responsive Navigation Menu/style.css",
+		"/C/Users/adm/Desktop/bootstrap4 -2019/login-inicial/login.js",
+		"/C/Users/adm/Desktop/bootstrap4 -2019/login-inicial/login.css",
+		"/C/Users/adm/Desktop/bootstrap4 -2019/login-inicial/login.html",
+		"/C/Users/adm/Desktop/modal/index.html",
+		"/C/Users/adm/Desktop/bootstrap4 -2019/login-inicial/pace.min.js",
+		"/C/Users/adm/Desktop/pace-master/themes/blue/pace-theme-flash.css",
+		"/C/Users/adm/Desktop/pace-master/themes/blue/pace-theme-center-atom.css",
+		"/C/Users/adm/Desktop/bootstrap4 -2019/login-inicial/classes_espacamento.txt",
+		"/C/Users/adm/Desktop/whatsapp-bootstrap-master/whatsapp-bootstrap-master/chat.html",
+		"/C/Users/adm/Desktop/teste.html",
+		"/C/Users/adm/Desktop/bootstrap4 -2019/login-final/logo.svg",
+		"/C/Users/adm/Desktop/whatsapp-bootstrap-master/whatsapp-bootstrap-master/whatsapp.js",
+		"/C/Users/adm/Desktop/bootstrap4 -2019/index.html",
+		"/C/Users/adm/Desktop/bootstrap4 -2019/projeto-5-template-simples/index.html",
+		"/C/Users/adm/Desktop/bootstrap4 -2019/estilo.css",
+		"/C/Users/adm/Desktop/Desenvolvimento Web/javascript/aula1.html",
+		"/C/Users/adm/Desktop/Desenvolvimento Web/javascript/meu_javescript.js",
+		"/C/Users/adm/Desktop/Desenvolvimento Web/javascript/variaveis.html",
+		"/C/Users/adm/Desktop/Desenvolvimento Web/javascript/ifelse.html",
+		"/C/Users/adm/Desktop/Desenvolvimento Web/javascript/switch.html",
+		"/C/Users/adm/Desktop/Desenvolvimento Web/2-Bootstrap Inicial/Bootstrap Inicial/formulario.html",
+		"/C/Users/adm/Desktop/Desenvolvimento Web/2-Bootstrap Inicial/Bootstrap Inicial/estilo.css",
+		"/C/Users/adm/Desktop/Desenvolvimento Web/2-Bootstrap Inicial/Bootstrap Inicial/index.html",
+		"/C/Users/adm/Desktop/Desenvolvimento Web/2-Bootstrap Inicial/Bootstrap Inicial/bootstrap/estilo.css",
+		"/C/Users/adm/Desktop/Desenvolvimento Web/2-Bootstrap Inicial/Bootstrap Inicial/bootstrap/index.html",
+		"/C/Users/adm/Desktop/BLOG/admin/urls.py",
+		"/C/Users/adm/Desktop/BLOG/blog/templates/blog.html",
+		"/C/Users/adm/Desktop/BLOG/blog/settings.py",
+		"/C/Users/adm/Desktop/BLOG/blog/urls.py",
+		"/C/Users/adm/Desktop/Python com Django/simplemooc-database/simplemooc/simplemooc/settings.py",
+		"/C/Users/adm/Desktop/Python com Django/simplemooc-database/simplemooc/manage.py",
+		"/C/Users/adm/Desktop/Python/mysql.py",
+		"/C/Users/adm/Desktop/Python/dicionarios.py",
+		"/C/Users/adm/Desktop/Python/funcoes.py",
+		"/C/Users/adm/Desktop/Python/Modularizacão/aleatorio.py",
+		"/C/Users/adm/Desktop/Python/Modularizacão/media.py",
+		"/C/Users/adm/Desktop/Python/Modularizacão/main.py",
+		"/C/Users/adm/Desktop/Python/lista.py",
+		"/C/Users/adm/Desktop/Python/excecoes.py",
+		"/C/Users/adm/Desktop/Python/numaleatorios.py",
+		"/C/Users/adm/Desktop/Python/arquivo.txt",
+		"/C/Users/adm/Desktop/Python/arquivos.py",
+		"/C/Users/adm/Desktop/Python/listapt2.py",
+		"/C/Users/adm/Desktop/Python/listapt1.py",
+		"/C/Users/adm/Desktop/lista.py",
+		"/C/Users/adm/Desktop/hello.py",
+		"/C/Users/adm/Desktop/Python/arquivo2.txt"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index.js",
+				"Alura\\javascript-avancado-i-aula1\\aluraframe\\client\\js\\index.js"
+			],
+			[
+				"js/app/models/Negociacao.js",
+				"Alura\\javascript-avancado-i-aula1\\aluraframe\\client\\js\\app\\models\\Negociacao.js"
+			],
+			[
+				"sett",
+				"simplemooc\\simplemooc\\settings.py"
+			],
+			[
+				"see",
+				"simplemooc\\manage.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
